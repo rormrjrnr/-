@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "몸짱 경찰관",
-  "short_name": "몸짱 경찰관",
-  "description": "교대근무 경찰관을 위한 운동·식단·회복 기록 앱",
+  "name": "만시간의 노력",
+  "short_name": "만시간의 노력",
+  "description": "10,000시간의 목표를 따라 운동시간과 중량·횟수 성장을 기록하는 개인 운동 일지",
   "lang": "ko",
   "start_url": "./index.html",
   "scope": "./",
@@ -10,7 +10,17 @@
   "background_color": "#f3f6fa",
   "theme_color": "#10243d",
   "icons": [
-    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "./icon-192.png?v=effort-v07-20261103",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png?v=effort-v07-20261103",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
